@@ -1,2 +1,2 @@
-# CYB6004-
+# CYB6004
 Assessment activities 

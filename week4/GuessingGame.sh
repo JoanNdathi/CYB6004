@@ -29,12 +29,12 @@ while true; do
     getNumber "please type a number between 1 and 100" 1 100
    
     if [[ $REPLY -eq 42 ]]; then
-        echo "correct"
+        echo "Right!"
         break
     elif [[ $REPLY -lt 42 ]]; then
-        echo "too low"
+        echo "Too low!"
     else
-        echo "too high"
+        echo "Too high!"
     fi
 done
 
